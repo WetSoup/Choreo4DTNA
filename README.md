@@ -1,4 +1,3 @@
-<!DOCTYPE htm1>
 <htm1>
   <head>By Whitney High School Junior, Sa'Maya Sanchez</head>
   <div

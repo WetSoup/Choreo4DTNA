@@ -1,6 +1,6 @@
 <htm1>
   <head>By Whitney High School Junior, Sa'Maya Sanchez</head>
-  <div
+  <div>
   <body>
     <h1>Dancing for Barbie-Themed Pep Rally at Whitney High School
     </div>
